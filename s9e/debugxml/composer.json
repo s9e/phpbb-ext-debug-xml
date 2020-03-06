@@ -1,0 +1,17 @@
+{
+	"name": "s9e/debugxml",
+	"type": "phpbb-extension",
+	"description": "Shows invalid XML",
+	"version": "1.0.0",
+	"license": "MIT",
+	"require": {
+		"php": ">=7.3.0"
+	},
+	"authors": [{ "name": "JoshyPHP" }],
+	"extra": {
+		"display-name": "s9e/debug-xml",
+		"soft-require": {
+			"phpbb/phpbb": "3.3.*"
+		}
+	}
+}
